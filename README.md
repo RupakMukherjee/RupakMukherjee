@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning gyrokinetic simulations
 - 💞️ I’m looking to collaborate on numerical algorithms
 - 📫 How to reach me: send an email.
-- 
-![Visitor Count](https://profile-counter.glitch.me/RupakMukherjee/count.svg)
+- 👀 ![Visitor Count](https://profile-counter.glitch.me/RupakMukherjee/count.svg)
 
 
 <!---
