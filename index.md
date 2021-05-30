@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on numerical algorithms
 - 📫 How to reach me: send an email.
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/RupakMukherjee/count.svg)th visitor!
+You are my ![Visitor Count](https://profile-counter.glitch.me/RupakMukherjee/count.svg)th visitor! Thanks for reaching out here.
 
 <!---
 RupakMukherjee/RupakMukherjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
